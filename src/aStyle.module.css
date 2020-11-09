@@ -1,0 +1,26 @@
+.red {
+    color: red;
+}
+
+.container {
+    align-content: center;
+    display: inline-flex;
+    border: 5px solid black;
+}
+
+.flexItem {
+    padding: 10rem;
+}
+
+.item1 {
+    background-color: red;
+}
+.item2 {
+    background-color: blue;
+}
+.item3 {
+    background-color: indigo;
+}
+.item4 {
+    background-color: indianred;
+}
